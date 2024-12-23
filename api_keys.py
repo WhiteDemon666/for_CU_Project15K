@@ -1,2 +1,3 @@
-BOT_API = '7643742579:AAE7m0m6ma1tZkU-ISeYPW4dnmtpx9osx6A'
-ACCU_API = 'zbJW1ceAWebDeVdCRyMbiGjXPFDIx49a'
+BOT_API = ''
+ACCU_API = '' 
+# Введите свои API-ключи
